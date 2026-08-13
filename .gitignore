@@ -1,0 +1,11 @@
+# Ignore simulation binaries and executables
+*.out
+*.vvp
+*.exe
+
+# Ignore waveform dumps (can get massively heavy)
+*.vcd
+*.fst
+
+# Ignore Mac system junk files
+.DS_Store
