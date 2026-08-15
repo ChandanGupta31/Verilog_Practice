@@ -4,7 +4,7 @@
 // Concept: Simple wire assignment
 // ==========================================
 
-module top_module( input in, output out );
+module simple_wire( input in, output out );
 
 	assign out=in;
     
