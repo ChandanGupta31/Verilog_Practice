@@ -1,5 +1,5 @@
 // ==========================================
-// Problem: Simple Wire
+// Problem: Four Wire
 // Link: https://hdlbits.01xz.net/wiki/Wire4
 // ==========================================
 
