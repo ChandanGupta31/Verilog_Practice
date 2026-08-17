@@ -3,7 +3,7 @@
 // Link: https://hdlbits.01xz.net/wiki/Andgate
 // ==========================================
 
-module andgate( 
+module top_module( 
     input a, 
     input b, 
     output out );

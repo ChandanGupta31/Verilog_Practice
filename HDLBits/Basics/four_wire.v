@@ -3,7 +3,7 @@
 // Link: https://hdlbits.01xz.net/wiki/Wire4
 // ==========================================
 
-module four_wire( 
+module top_module( 
     input a,b,c,
     output w,x,y,z);
 	
